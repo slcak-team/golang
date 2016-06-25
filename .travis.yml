@@ -19,3 +19,6 @@ addons:
 # skip godep restore
 install:
   - true
+
+notifications:
+  slack: brief-team:ZTfvlvGvUloB7HIgyjVtZ4uO
